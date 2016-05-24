@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE LabBestOrderAndReply SYSTEM "LabBestOrderAndReply.dtd">
+
+<LabBestOrderAndReply>
+    <Meddelande Datum="20040825" Tid="14:15:22" MeddelandeID="1234567890123456789ABCDEFGHIJ"></Meddelande>		
+    <Kund Best="TEST" XSvar="" Fakt="TEST" Sign="NN"></Kund>
+<Patient PatientID="19121212-1212" Namn="Testorsson, Testor" Kon="M"></Patient>
+    <Remiss Datum="20040825" Tid="05:37" Kommentar="" Prioritet="A" RID="654321" Svarsstatus="NA"></Remiss>
+    <Prov Kommentar="" LID="">
+    <Analys Kod="K" Namn="S-K" Resultat="4,5" Enhet="mmol/L" Referensintervall="3,5-5,0" Flagga="" Kommentar=""></Analys>
+<Analys Kod="Na" Namn="S-Na" Resultat="130" Enhet="mmol/L" Referensintervall="135-145" Flagga="*" Kommentar=""></Analys>
+</Prov>
+</LabBestOrderAndReply>
+
